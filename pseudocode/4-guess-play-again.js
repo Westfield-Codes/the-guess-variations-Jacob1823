@@ -1,5 +1,5 @@
 /* Guess Game Program by [your name here]
- * Adds the ability to play again. 
+ * Adds the ability to play again.    
  */
 
 /* newGame is an outer loop giving the user an option 
@@ -7,21 +7,21 @@
  */
 
 // define function newGame
-
+   function guessGame(){
   // create a Boolean variable for again, set to true
-
+    let again = true;
   // loop as long as again is true 
-
+    while (again == true){
     // run the guessGame function 
 
     // ask to play again with again set to a confirm
 
     // close the loop
-
+    }
   // thank the player for playing
 
   // close the function
-
+  }
 
   
 // create a function called guessGame 
